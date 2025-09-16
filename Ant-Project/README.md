@@ -29,7 +29,3 @@ The project simulates an ant colony where ants can have different **colors, size
 For demonstration, see the final output screenshots:  
 [Ant Project Final Output (PDF)](Ant_Project_Final_Output.pdf)
 
-## How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/redwonsagor/java-projects.git
